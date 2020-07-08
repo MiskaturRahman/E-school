@@ -34,6 +34,14 @@
     color: white;
 }
 
+.nav-button{
+    padding: 0px 10px;
+    border: none;
+    background: #21B573;
+    border-radius: 33px;
+    color: white;
+}
+
 .card{
     border: none;
     position: relative;
@@ -86,8 +94,77 @@
 }
 
 .online-classes:hover{
-    box-shadow: -1px 9px 40px -12px rgba(0, 0, 0, 0.1);
+    box-shadow: -1px 9px 40px -12px rgba(161, 157, 157, 0.1);
     background: rgb(163, 157, 157);
 
 }
+
+.course_date{
+    padding-top: 20px;
+}
+
+
+
+.intro{
+       display: flex;
+}
+
+.testimonial_image{
+    padding-left: 160px;
+}
+
+.study{
+    padding: 30px;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.teacher, .books, .campus, .confidence, .Digital{
+    text-align: center;
+    padding:30px !important;
+    border: none;
+    box-shadow: 5px 5px 10px lightgrey;
+    border-radius: 10px;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+
+.backtoschool{
+    padding-left: 10px;
+}
+
+.quality{
+    padding-top: 30px;
+}
+
+
+.intro_text{
+    padding-right: 130px;
+    padding-left: 50px;
+}
+
+.last-part{
+    position: relative;
+    width: 1463px;
+    height: 369px;
+    left: 0px;
+    background: #282531;
+    color: white;
+}
+
+.last_part{
+margin-top: 60px;
+}
+
+.flast_part h4{
+    padding-bottom: 20px;
+    font-weight: bold;
+}
+
+
+
+
+
 
